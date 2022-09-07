@@ -1,0 +1,21 @@
+[user]
+	email = coco_haokuankuan@163.com
+	name = coco-hkk
+[credential]
+	helper = store
+[core]
+    quotepath = false
+[receive]
+    denyCurrentBranch = ignore
+[color]
+    ui = true
+[winUpdater]
+	recentlySeenVersion = 2.29.2.windows.3
+[http]
+	proxy = socks5://127.0.0.1:10800
+[https]
+	proxy = socks5://127.0.0.1:10800
+[http]
+	sslVerify = true
+[https]
+    sslVerify = true
